@@ -1,4 +1,4 @@
-# npu-libraries-dictionary-typeorm-client
+# dictionary-typeorm-client
 
 
 
